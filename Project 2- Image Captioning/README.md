@@ -8,5 +8,5 @@ After using the Microsoft Common Objects in COntext [(MS COCO) dataset](http://c
 
 
 <p align="center">
-<img width="1354" alt="image-captioning" src="https://user-images.githubusercontent.com/33187812/68330571-27dfb980-00dc-11ea-96c7-6389d020145a.png">
+<img width="1354" alt="image-captioning" src="https://user-images.githubusercontent.com/33187812/68330571-27dfb980-00dc-11ea-96c7-6389d020145a.png" title="Image Captioning Model">
 </p>
