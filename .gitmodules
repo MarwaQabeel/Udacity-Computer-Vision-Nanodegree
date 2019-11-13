@@ -1,0 +1,3 @@
+[submodule "CVND_Localization_Exercises"]
+	path = CVND_Localization_Exercises
+	url = https://github.com/udacity/CVND_Localization_Exercises.git
